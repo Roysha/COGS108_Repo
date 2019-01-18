@@ -1,2 +1,4 @@
 # COGS108_Repo
-cogs108
+cogs108 
+Yicheng Sha
+A92070428
